@@ -47,7 +47,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Author.cs" />
+    <Compile Include="AuthorPage.cs" />
+    <Compile Include="Authors.cs" />
     <Compile Include="Browser.cs" />
+    <Compile Include="HomePage.cs" />
     <Compile Include="Page.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
